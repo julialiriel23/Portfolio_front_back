@@ -20,15 +20,14 @@ Este é o meu primeiro projeto integrando **front-end** e **back-end**, desenvol
 
 - Interface visual para o usuário inserir ou visualizar dados
 - Comunicação com o back-end via requisições HTTP (GET, POST, etc.)
-- Armazenamento temporário ou persistente de dados (em memória ou com banco de dados simples)
-- (Opcional) Listagem dinâmica, formulários, interatividade
+- Armazenamento temporário ou persistente de dados com banco de dados simples
 
 ## 🧠 Aprendizados
 
 - Como estruturar uma aplicação de forma completa, com front-end e back-end
 - Como o navegador e o servidor trocam dados (HTTP, JSON)
-- Organização de código em camadas (MVC, separação de responsabilidades)
-- Integração entre código visual (HTML/CSS) e lógica de negócio (C#, JavaScript)
+- Organização de código em camadas 
+- Integração entre código visual (HTML/CSS) e lógica de negócio ( JavaScript)
 - Uso do Git para controlar versões e trabalhar em equipe (mesmo que individualmente)
 
 
